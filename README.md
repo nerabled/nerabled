@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://discord.com/users/642838726753648662"> <img align="center" src="https://lanyard.kyrie25.dev/api/642838726753648662?waveColor=222&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000&animatedDecoration=true&hideNameplate=false&hideTimestamp=true&hideBadges=false&hideActivity=false&hideProfile=false&showDisplayName=false"/></a>
+  <br>
+  <br>
+  <a href="https://github.com/nerabled">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://discord.com/users/642838726753648662">
+    <img src="https://img.shields.io/badge/-Discord-black?style=plastic&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://t.me/bruteid">
+    <img src="https://img.shields.io/badge/-Telegram-black?style=plastic&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <br>
+  <br>
 
-<!--
-**nerabled/nerabled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
